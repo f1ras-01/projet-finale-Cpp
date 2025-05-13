@@ -1,0 +1,27 @@
+	CREDITS 
+- CHROMA -  
+Created as a school project by FIRAS JMII
+--------------------------------------------------------------------
+	DEVELOPED BY 
+FIRAS JMII 
+-------------------------------------------------------------------- 
+Programming, Design, and Art
+This project was brought to life through countless hours of learning,
+iteration, and determination.  
+--------------------------------------------------------------------
+	SPECIAL THANKS  
+Mr . FATHALLAH  
+Thank you for the opportunity to combine my passion for
+game development with this assignment.   
+--------------------------------------------------------------------
+	ACKNOWLEDGMENTS
+ - To myself, for pushing through challenges and embracing the learning process.  
+ - To game development, a hobby that became a vehicle for growth.  
+ - To everyone who offered feedback or encouragement along the way.  
+ --------------------------------------------------------------------
+	A NOTE FROM THE CREATOR 
+"This project tested my skills and patience, but reminded me why I love creating.  
+Thank you for playing,I hope you enjoy it."
+--------------------------------------------------------------------
+FIRAS JMII | outils de programmation | ENSIT | 2025  
+--------------------------------------------------------------------
